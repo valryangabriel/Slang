@@ -12,7 +12,7 @@ defusedxml==0.6.0
 Django==3.0.4
 django-cors-headers==3.2.1
 django-phone-field==1.8.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 entrypoints==0.3
 Faker==4.0.2
